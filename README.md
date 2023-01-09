@@ -26,16 +26,14 @@ Here are some ideas to get you started:
 
 [![Calming Webpage](https://github-readme-stats.vercel.app/api/pin/?username=huuhghhgyg&repo=calming-webpage)](https://github.com/huuhghhgyg/calming-webpage)
 
-✅ [team-todo](https://github.com/huuhghhgyg/team-todo) & [team-todo-server](https://github.com/huuhghhgyg/team-todo-server) : A set of projects created aim at learning Tailwind, Vue.js, Node.js, Socket.IO, JQuery, SQL. (UNFINISHED)
-
-[![team-todo](https://github-readme-stats.vercel.app/api/pin/?username=huuhghhgyg&repo=team-todo)](https://github.com/huuhghhgyg/team-todo)
-
-[![team-todo-server](https://github-readme-stats.vercel.app/api/pin/?username=huuhghhgyg&repo=team-todo-server)](https://github.com/huuhghhgyg/team-todo-server)
-
 📰 [Hikaru's Blog](https://huuhghhgyg.github.io) : My Blog, using hexo, with my modified Material Theme. One of my most frequently updated projects.
 
 [![huuhghhgyg.github.io](https://github-readme-stats.vercel.app/api/pin/?username=huuhghhgyg&repo=huuhghhgyg.github.io)](https://github.com/huuhghhgyg/huuhghhgyg.github.io)
 
-📝 [Calculator Core](https://github.com/huuhghhgyg/Calculator_Core) : One of my earliest projects created to learn CSharp. It's my history of learning to code.
+Other than that, I set up a reference site called [MicroCityNotes](https://huuhghhgyg.github.io/MicroCityNotes) with VuePress, which records some of my thoughts and techniques when writing Lua scripts running in MicroCity.
 
-[![CalculatorCore](https://github-readme-stats.vercel.app/api/pin/?username=huuhghhgyg&repo=Calculator_Core)](https://github.com/huuhghhgyg/Calculator_Core)
+[![MicroCityNotes](https://github-readme-stats.vercel.app/api/pin/?username=huuhghhgyg&repo=MicroCityNotes)](https://github.com/huuhghhgyg/MicroCityNotes)
+
+📝 [CalCore](https://github.com/huuhghhgyg/CalCore) : One of my earliest projects created to learn CSharp. My history of learning to code. Some algorithms have been added recently. (e.g. Simplex Method)
+
+[![CalCore](https://github-readme-stats.vercel.app/api/pin/?username=huuhghhgyg&repo=CalCore)](https://github.com/huuhghhgyg/CalCore)
