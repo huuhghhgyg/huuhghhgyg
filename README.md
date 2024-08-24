@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm huuhghhgyg. Would you like to visit [My Blog](https://huuhghhgyg.github.io/)?
+I'm Huuhghhgyg. If you'd like to stay updated, feel free to visit my [blog](https://huuhghhgyg.github.io/).
 <!--
 **huuhghhgyg/huuhghhgyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,22 +19,20 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huuhghhgyg&layout=compact&hide=html)
 > Most used languages Except HTML
 
-🤵 [Chamberlain](https://github.com/huuhghhgyg/Chamberlain_UWP) : Temporarily a UWP Todo Manager and a backup tool.
+### Repos
+
+🤵 [Chamberlain](https://github.com/huuhghhgyg/Chamberlain_UWP): A task manager and backup tool based on the Universal Windows Platform (for learning concepts and practicing C#).
 
 [![Chamberlain](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=huuhghhgyg&repo=Chamberlain_UWP)](https://github.com/huuhghhgyg/Chamberlain_UWP)
 
-😴 [Calming Webpage](https://github.com/huuhghhgyg/calming-webpage) : A static white noise webpage can be used without an internet connection, and it can also be used to fill an empty web server lol 🤣
+😴 [Calming Webpage](https://github.com/huuhghhgyg/calming-webpage): A static white noise webpage, designed for relaxation as well as to enhance concentration.
 
 [![Calming Webpage](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=huuhghhgyg&repo=calming-webpage)](https://github.com/huuhghhgyg/calming-webpage)
 
-📰 [Hikaru's Blog](https://huuhghhgyg.github.io) : My blog, which uses Hexo and features my modified Material theme, is one of my most frequently updated projects.
+📰 [Hikaru's Blog](https://huuhghhgyg.github.io): My blog with modified Material Theme.
 
 [![huuhghhgyg.github.io](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=huuhghhgyg&repo=huuhghhgyg.github.io)](https://github.com/huuhghhgyg/huuhghhgyg.github.io)
 
-Other than that, I set up a reference site called [MicroCityNotes](https://huuhghhgyg.github.io/MicroCityNotes) with VuePress, which records some of my thoughts and techniques when writing Lua scripts running both in MicroCity and MicroCityWeb.
+[MicroCityNotes](https://huuhghhgyg.github.io/MicroCityNotes): A reference site for MicroCity, built with VuePress, where some of my thoughts and notes are recorded.
 
 [![MicroCityNotes](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=huuhghhgyg&repo=MicroCityNotes)](https://github.com/huuhghhgyg/MicroCityNotes)
-
-📝 [CalCore](https://github.com/huuhghhgyg/CalCore) : This project was one of my earliest attempts to learn CSharp, and it represents my history of learning to code. Recently, I have added some algorithms, such as the Simplex Method.
-
-[![CalCore](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=huuhghhgyg&repo=CalCore)](https://github.com/huuhghhgyg/CalCore)
