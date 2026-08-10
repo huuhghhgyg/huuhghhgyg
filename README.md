@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huuhghhgyg&layout=compact&hide=html)
 > Most used languages Except HTML
